@@ -1,9 +1,18 @@
---- 
-title: "Derek's Repository"
-author: "HO Yuen-Wa"
+--- bookdown::render_book("index.Rmd")
+
+title: "Derek Ho Yuen-Wa"
+author: "Derek HO"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Personal Introduction
 
+I am broadly interested in cetacean ecology and biology, and anthropogenic impacts on coastal cetaceans. Specifically, I am employing biogeochemical techniques to elucidate the effect of anthropogenic fishery on the niche exploitation in coastal cetacean. The same technique is also applied to identify the weaning age of Indo-Pacific humpback dolphin (*Sousa chinensis*). 
+
+
+
+## Affiliations and Contacts
+*Researcher* - [https://www.hku-cetacean-ecology.net/](Cetacea Research Institute )
+
+*Postdoctoral Fellow* - Marine Aquaculture and Ecology Lab, Department of Applied Biology and Chemical Technology, The Hong Kong Polytechnic University

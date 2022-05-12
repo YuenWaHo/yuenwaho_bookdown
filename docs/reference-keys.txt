@@ -1,8 +1,13 @@
-down-the-rabbit-hole
-the-pool-of-tears
+personal-introduction
+affiliations-and-contacts
 personal-cv
 publications
-research-grants
 technical-reports
+research-grants
 provision-of-services
 conferences
+research-themes
+stable-isotope-analysis
+soundscape-ecology
+microplastic-ingestion
+resources

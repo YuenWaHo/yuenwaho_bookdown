@@ -1,21 +1,24 @@
 # Personal CV
 
-[Google Scholar](https://scholar.google.com/citations?user=KfeNIQsAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=KfeNIQsAAAAJ&hl=en) | [ORCID](https://orcid.org/
+0000-0003-1523-112X)
+[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/derek)
 
 ## Publications
-[6]. Ho, Y.-W., Karczmarski, L., Leung, M. M. L., Lin, W.,& Fang, J. K. H. (*In Prep.*). Identification of microplastic ingestion by Indo-Pacific humpback dolphins with Raman microspectroscopy: Contrasting the unobserved small size fraction. Submitted to *Science Advances*.
+### Referred Journal Publications
+[6]. Ho, Y.-W., Karczmarski, L., Leung, M. M. L., Lin, W.,& Fang, J. K. H. (*In Prep.*). Identification of microplastic ingestion by Indo-Pacific humpback dolphins with Raman microspectroscopy: Contrasting the unobserved small size fraction.
 
-[5]. Ho, Y.-W., Lin, T.-H., Akamatsu, T., & Karczmarski, L. (*In Prep.*). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. Submitted to *Ecological Indicators*.	
+[5]. Ho, Y.-W., Lin, T.-H., Akamatsu, T., & Karczmarski, L. (*In Prep.*). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters.
 
-[4]. Ho, Y.-W., Lim, J. Y., Yeoh, Y. K., Chiou, A. J., Chan, P. K. S.,& Fang, J. K. H. (*Under Review*) High quantity of microplastics in faeces of Hong Kong residents. Submitted to *Environmental Pollution*
+[4]. Ho, Y.-W., Lim, J. Y., Yeoh, Y. K., Chiou, A. J., Zhu, Y., Lai, K. P., Li, L., Chan, P. K. S.,& Fang, J. K. H. (*Under Review*) High quantity of microplastics in faeces of Hong Kong residents. Submitted to *Environmental Pollution*
 
-[3]. Leung, M. M. L., **Ho, Y.-W.**, Maboloc, E. A., Lee, C.-H., Wang, Y., Hu, M., Cheung, S.-G., & Fang, J. K. H. (2021). Determination of microplastics in the edible green-lipped mussel Perna viridis using an automated mapping technique of Raman microspectroscopy. *Journal of Hazardous Materials*. 126541.	
+[3]. Leung, M. M. L., **Ho, Y.-W.**, Maboloc, E. A., Lee, C.-H., Wang, Y., Hu, M., Cheung, S.-G., & Fang, J. K. H. (2021). Determination of microplastics in the edible green-lipped mussel *Perna viridis* using an automated mapping technique of Raman microspectroscopy. *Journal of Hazardous Materials*. 126541.	
 
 [2]. Leung, M. M. L., **Ho, Y.-W.**, Lee, C.-H., Wang, Y., Hu, M., Kwok, K. W. H., Chua, S.-L., & Fang, J. K. H. (2021) Improved Raman spectroscopy-based approach to assess microplastics in seafood. *Environemntal Pollution*, 117648.
 
 [1]. Karczmarski, L., Huang, S.-L., Or, C. K. M., Gui, D., Chan, S. C. Y., Lin, W., Porter, L., Wong, W. H., Zheng, R., **Ho, Y.-W.**, Chui, S. Y. S., Tiongson, A. J. C., Mo, Y., Chang, W. L., Kwok, J. H. W., Tang, R. W. K., Lee, A. T. L., Yiu, S.-W., Keith, M., Gailey G., & Wu, Y. (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. *Advances in Marine Biology*, 73, 27–64.
 
-## Technical Reports
+### Technical Reports
 [1].	Karczmarski, L., Huang, S.-L., Wong, W.-H., Porter, L., Ho, Y.-W., Or, C. K. M., Lin, W., Chan, S. C. Y., Zheng, R., Chui, S. Y. S., Gailey, G., Wu, Y. (2014) The Indo-Pacific humpback dolphin (*Sousa chinensis*): Hong Kong Red List Assessment. 
 
 ## Research grants

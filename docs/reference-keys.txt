@@ -2,6 +2,7 @@ personal-introduction
 affiliations-and-contacts
 personal-cv
 publications
+referred-journal-publications
 technical-reports
 research-grants
 provision-of-services

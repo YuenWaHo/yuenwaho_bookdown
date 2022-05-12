@@ -2,6 +2,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=KfeNIQsAAAAJ&hl=en) | [ORCID](https://orcid.org/
 0000-0003-1523-112X)
+
 [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/derek)
 
 ## Publications
@@ -12,16 +13,16 @@
 
 [4]. Ho, Y.-W., Lim, J. Y., Yeoh, Y. K., Chiou, A. J., Zhu, Y., Lai, K. P., Li, L., Chan, P. K. S.,& Fang, J. K. H. (*Under Review*) High quantity of microplastics in faeces of Hong Kong residents. Submitted to *Environmental Pollution*
 
-[3]. Leung, M. M. L., **Ho, Y.-W.**, Maboloc, E. A., Lee, C.-H., Wang, Y., Hu, M., Cheung, S.-G., & Fang, J. K. H. (2021). Determination of microplastics in the edible green-lipped mussel *Perna viridis* using an automated mapping technique of Raman microspectroscopy. *Journal of Hazardous Materials*. 126541.	
+[3]. Leung, M. M. L., **Ho, Y.-W.**, Maboloc, E. A., Lee, C.-H., Wang, Y., Hu, M., Cheung, S.-G., & Fang, J. K. H. (2021). Determination of microplastics in the edible green-lipped mussel *Perna viridis* using an automated mapping technique of Raman microspectroscopy. *Journal of Hazardous Materials*. 126541.	[Link](https://drive.google.com/file/d/18eIP67jfW-uxCaE7vEWAefwyWupc1r-P/view?usp=sharing)
 
-[2]. Leung, M. M. L., **Ho, Y.-W.**, Lee, C.-H., Wang, Y., Hu, M., Kwok, K. W. H., Chua, S.-L., & Fang, J. K. H. (2021) Improved Raman spectroscopy-based approach to assess microplastics in seafood. *Environemntal Pollution*, 117648.
+[2]. Leung, M. M. L., **Ho, Y.-W.**, Lee, C.-H., Wang, Y., Hu, M., Kwok, K. W. H., Chua, S.-L., & Fang, J. K. H. (2021) Improved Raman spectroscopy-based approach to assess microplastics in seafood. *Environemntal Pollution*, 117648. [Link](https://drive.google.com/file/d/18c5gIa5Igq8Wuex2ux9YDfiOuqZqW0WC/view?usp=sharing)
 
-[1]. Karczmarski, L., Huang, S.-L., Or, C. K. M., Gui, D., Chan, S. C. Y., Lin, W., Porter, L., Wong, W. H., Zheng, R., **Ho, Y.-W.**, Chui, S. Y. S., Tiongson, A. J. C., Mo, Y., Chang, W. L., Kwok, J. H. W., Tang, R. W. K., Lee, A. T. L., Yiu, S.-W., Keith, M., Gailey G., & Wu, Y. (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. *Advances in Marine Biology*, 73, 27–64.
+[1]. Karczmarski, L., Huang, S.-L., Or, C. K. M., Gui, D., Chan, S. C. Y., Lin, W., Porter, L., Wong, W. H., Zheng, R., **Ho, Y.-W.**, Chui, S. Y. S., Tiongson, A. J. C., Mo, Y., Chang, W. L., Kwok, J. H. W., Tang, R. W. K., Lee, A. T. L., Yiu, S.-W., Keith, M., Gailey G., & Wu, Y. (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. *Advances in Marine Biology*, 73, 27–64. [Link](https://drive.google.com/file/d/18cccj3awERE_rZrJIn9rR1Z9JmtLpBdE/view?usp=sharing)
 
 ### Technical Reports
 [1].	Karczmarski, L., Huang, S.-L., Wong, W.-H., Porter, L., Ho, Y.-W., Or, C. K. M., Lin, W., Chan, S. C. Y., Zheng, R., Chui, S. Y. S., Gailey, G., Wu, Y. (2014) The Indo-Pacific humpback dolphin (*Sousa chinensis*): Hong Kong Red List Assessment. 
 
-## Research grants
+## Research Grants
 [5].	Co-Investigator. The unknown facets of conservation ecology of Hong Kong cetaceans: Night-time habitat use, diurnal acoustic environment, and impacts of anthropogenic noise on Chinese white dolphins and Indo-Pacific finless porpoises. (2021). Hong Kong Offshore LNG Terminal Project Marine Conservation Enhancement Fund. (HKD: 1,988,860)
 
 [4].	Project Team Member. Population Assessment of Indo-Pacific finless porpoises in the Guangdong-Hong Kong-Macao Greater Bay Area. (2019). Zhilan Foundation, Shenzhen, China. (2019040231B; RMB 99,946)
@@ -32,7 +33,7 @@
 
 [1].	Co-Investigator. Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (*Sousa chinensis*) and Finless Porpoises (Neophocaena phocaenoides) in Hong Kong waters. (2017). The Ocean Park Conservation Foundation Hong Kong. (MM02.1718; HKD 683,770)
 
-## Provision of services
+## Provision of Services
 [1].	Survey Team Leader. Provision of services for baseline survey on microplastics in Hong Kong’s river water. (2022–2024). Fang, J. K. H. as Project Director. Client: Environmental Protection Department, HKSAR. (Reference: 21-04636; HK$1,009,970)
 
 
@@ -56,6 +57,8 @@
 [1].	Ho, Y.-W., Chan, S. C. Y., & Karczmarski, L. (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (*Sousa chinensis*) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
 
+## Editorial Service
++ Integrative Zoology; 
 
 
 

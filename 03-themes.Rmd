@@ -1,9 +1,14 @@
 # Research Themes
 
 ## Stable Isotope Analysis
-
+Tooth samples collected from humpback dolphin carcasses were analysed for isotopic ratios. Age-specific variations in dentine isotopic values were examined for ontogenetic dietary shift using a hierarchical Bayesian framework. The results indicate that humpback dolphins wean before the age of three, although with a considerable heterogeneity among individuals. The weaning age differs between sexes, with males displaying an earlier dietary shift. There is also an apparent spatial pattern with a few months difference in weaning age across the PRD, although more samples are needed for this to be confirmed. Isotopic niche analysis points to differences in foraging preferences between sexes, with males occupying a larger isotopic niche area and consuming prey from a more depleted carbon source. Isotopic niche area decreases from the east to west of the PRD, suggesting a regional difference in feeding habits and foraging efficiency, which corresponds with similar finding in a recent dietary study. The increase in fishery production is negatively correlated with the isotopic niche area occupied by humpback dolphins, suggesting that fishery affects dolphins’ energy acquisition pattern.
 
 ## Soundscape Ecology
+Underwater sound recordings were collected in western Hong Kong waters and used to quantify the soundscape pattern in a fine spatial scale. A framework of soundscape information retrieval was developed to study spectral features of the acoustic data and investigate whether there are features specific to the dolphins’ core and non-core habitats. A spectral feature which peaks at 2 kHz turned out to be a reliable predictor of humpback dolphin’s core habitat. The sound source of the 2 kHz feature remains unknown but is likely associated with humpback dolphins’ prey, and it positively correlates with the dolphins’ habitat use pattern.
 
+```{r my-fig, fig.cap="Spectral Features from Spatial Soundscape Decomposition"}
+knitr::include_graphics("img/Fig5_SpectralFeatures.tiff")
+```
 
 ## Microplastic Ingestion
+Microplastics ingestion was examined using automated μ-Raman spectroscopy and 11 stomach samples collected from dolphin carcasses stranded in Hong Kong waters. The high abundance of plastic particles indicates a very considerable microplastic ingestion by this inshore delphinid. The majority of microplastics were low-density polymers, smaller than 170.4 μm. Hierarchical Bayesian prediction model suggests that the ingestion of very small size classes of microplastics may be substantially underestimated, which underscores the need for comprehensive evaluation of the proportion of identified plastic and emphasizes a broader need for environmental monitoring, in Hong Kong and elsewhere in the region and beyond, and effective mitigation efforts preventing plastic/microplastics pollutions.

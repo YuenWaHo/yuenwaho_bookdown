@@ -1,3 +1,4 @@
+fig:my-fig
 personal-introduction
 affiliations-and-contacts
 personal-cv
@@ -7,6 +8,7 @@ technical-reports
 research-grants
 provision-of-services
 conferences
+editorial-service
 research-themes
 stable-isotope-analysis
 soundscape-ecology

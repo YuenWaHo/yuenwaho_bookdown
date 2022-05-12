@@ -2,3 +2,7 @@ down-the-rabbit-hole
 the-pool-of-tears
 personal-cv
 publications
+research-grants
+technical-reports
+provision-of-services
+conferences
